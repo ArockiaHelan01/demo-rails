@@ -22,6 +22,8 @@ group :assets do
 end
 
 gem 'jquery-rails' , '2.0.2'
+gem 'minitest', '~> 5.8', '>= 5.8.4'
+gem 'test-unit', '~> 3.1', '>= 3.1.8'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
